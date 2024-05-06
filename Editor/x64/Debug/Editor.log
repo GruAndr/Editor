@@ -1,0 +1,8 @@
+﻿  Editor.cpp
+C:\Users\gruan\source\repos\Editor\Editor\figure.h(293,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\gruan\source\repos\Editor\Editor\figure.h(294,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\gruan\source\repos\Editor\Editor\figure.h(306,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gruan\source\repos\Editor\Editor\figure.h(306,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gruan\source\repos\Editor\Editor\figure.h(322,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\gruan\source\repos\Editor\Editor\figure.h(322,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Editor.vcxproj -> C:\Users\gruan\source\repos\Editor\x64\Debug\Editor.exe
